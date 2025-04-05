@@ -1,0 +1,11 @@
+.conatainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  align-items: center;
+}
+
+.conatainer h1 {
+  justify-items: center;
+}
